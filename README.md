@@ -58,6 +58,7 @@ rxShared.getBoolean(key) //Observable<Boolean>
 # Credits
 
 Author: Florent Champigny [http://www.florentchampigny.com/](http://www.florentchampigny.com/)
+
 Blog : [http://www.tutos-android-france.com/](http://www.www.tutos-android-france.com/)
 
 <a href="https://plus.google.com/+florentchampigny">
